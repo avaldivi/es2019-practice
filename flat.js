@@ -20,3 +20,10 @@ console.log(animals2.flat())
 
 console.log('Multidimensional Array using flatMap level: 2')
 console.log(animals2.flat(2))
+
+
+module.exports = {
+  dogs,
+  cats,
+  monkeys
+}
